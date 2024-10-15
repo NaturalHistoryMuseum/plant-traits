@@ -2,6 +2,9 @@
 
 Datasets produced for the Data Extraction and Modelling from Plant Trait Literature project.
 
+<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">
+    <img src="https://licensebuttons.net/l/by/4.0/88x31.png" alt="Creative Commons License">
+</a>
 
 ### NLP data 
 
