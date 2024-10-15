@@ -98,4 +98,5 @@ https://github.com/NaturalHistoryMuseum/plant-traits/tree/main/output/raw/ocr-tr
 
 Dataset of traits extracted from 14,533 Natural History Museum herbarium images. 
 
-https://github.com/NaturalHistoryMuseum/plant-traits/tree/main/output/raw/ocr-traits
+https://github.com/NaturalHistoryMuseum/plant-traits/tree/main/output/raw/cv-traits
+
