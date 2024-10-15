@@ -105,3 +105,8 @@ Dataset of traits extracted from 14,533 Natural History Museum herbarium images.
 
 https://github.com/NaturalHistoryMuseum/plant-traits/tree/main/output/raw/cv-traits
 
+For each herbarium sheet, measurements were taken of each leaf or leaflet using [LeafMachine2](https://github.com/NaturalHistoryMuseum/LeafMachine2). Measurements include:
+- Length (i.e longest length of leaf/leaflet outline)
+- Width
+- Perimeter
+- Area
